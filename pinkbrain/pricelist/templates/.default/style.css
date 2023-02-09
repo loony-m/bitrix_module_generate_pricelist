@@ -1,0 +1,9 @@
+.sdownload-butt a {
+    background: url("images/ico.png") no-repeat left center;
+    background-size: 40px auto;
+    padding-left: 50px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
